@@ -5,8 +5,8 @@
 
 ## 📊 Learning Roadmap & Progress
 
-| Module | Title | Status | Dates |
-| :--- | :--- | :---: | :--- |
+| Module | Title | 
+| :--- | :--- | 
 | **01** | Foundation of Cyber Security and Networking |
 | **02** | Ethical Hacking Lab Setup & Virtualization |
 | **03** | Vulnerability Assessment |
