@@ -3,7 +3,7 @@
 ## This is what i have learn from fundamental of Cyber-security. I will upload the work one by one here with presentable way.
 ---
 
-## 📊 Learning Roadmap & Progress
+##  Learning Roadmap & Progress
 
 | Module | Title | 
 | :--- | :--- | 
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Tools Mastered (To Date)
+###  Tools Mastered (To Date)
 * Kali Linux / Virtualization
 * Nmap / Zenmap
 * Vulnerability Scanners
